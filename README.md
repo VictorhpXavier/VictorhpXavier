@@ -1,7 +1,5 @@
 ## Hello World! I'm Victor 👋
 
-Currently I'm a **HighSchool** Students from Portugal passionate about technology. My ultimate **goal** is to develop advanced AI models that can significantly contribute to society, I am particularly interested in creating AI solutions that can improve **healthcare** and **enhance** education.
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">Web Development</h3>
