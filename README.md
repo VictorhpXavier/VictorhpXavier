@@ -103,7 +103,7 @@
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
+      <th colspan="6" align="center" style="color: white;">Languages & Libraries</th>
     </tr>
   </thead>
   <tbody>
@@ -122,6 +122,9 @@
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=anaconda" alt="PyTorch" width="50" height="50"/><br>Anaconda
       </td>
     </tr>
   </tbody>
