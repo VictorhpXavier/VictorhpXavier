@@ -56,7 +56,7 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=springboot" width="50" height="50"/><br>Express
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50"/><br>Java
       </td>
     </tr>
   </tbody>
